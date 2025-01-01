@@ -6,19 +6,35 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://borfirbora.com/nikola/categories/cat_ornekler.xml</loc>
+  <lastmod>2025-01-01T21:21:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://borfirbora.com/nikola/categories/cicekleri-sulamak.xml</loc>
+  <lastmod>2025-01-01T21:21:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://borfirbora.com/nikola/categories/olumcul-isler.xml</loc>
+  <lastmod>2025-01-01T21:21:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://borfirbora.com/nikola/categories/yazi.xml</loc>
+  <lastmod>2025-01-01T21:21:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://borfirbora.com/nikola/galleries/demo/rss.xml</loc>
-  <lastmod>2025-01-01T21:14:00Z</lastmod>
+  <lastmod>2025-01-01T21:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://borfirbora.com/nikola/galleries/rss.xml</loc>
-  <lastmod>2025-01-01T21:14:00Z</lastmod>
+  <lastmod>2025-01-01T21:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://borfirbora.com/nikola/rss.xml</loc>
-  <lastmod>2025-01-01T21:14:00Z</lastmod>
+  <lastmod>2025-01-01T21:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://borfirbora.com/nikola/sitemap.xml</loc>
-  <lastmod>2025-01-01T21:14:00Z</lastmod>
+  <lastmod>2025-01-01T21:21:00Z</lastmod>
  </sitemap>
 </sitemapindex>
