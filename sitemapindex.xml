@@ -6,19 +6,19 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://server.borfirbora.com/galleries/demo/rss.xml</loc>
-  <lastmod>2025-01-01T20:56:00Z</lastmod>
+  <loc>https://borfirbora.com/nikola/galleries/demo/rss.xml</loc>
+  <lastmod>2025-01-01T21:14:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://server.borfirbora.com/galleries/rss.xml</loc>
-  <lastmod>2025-01-01T20:56:00Z</lastmod>
+  <loc>https://borfirbora.com/nikola/galleries/rss.xml</loc>
+  <lastmod>2025-01-01T21:14:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://server.borfirbora.com/rss.xml</loc>
-  <lastmod>2025-01-01T20:26:00Z</lastmod>
+  <loc>https://borfirbora.com/nikola/rss.xml</loc>
+  <lastmod>2025-01-01T21:14:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://server.borfirbora.com/sitemap.xml</loc>
-  <lastmod>2025-01-01T20:56:00Z</lastmod>
+  <loc>https://borfirbora.com/nikola/sitemap.xml</loc>
+  <lastmod>2025-01-01T21:14:00Z</lastmod>
  </sitemap>
 </sitemapindex>

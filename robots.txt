@@ -1,4 +1,4 @@
-Sitemap: https://server.borfirbora.com/sitemapindex.xml
+Sitemap: https://borfirbora.com/nikola/sitemapindex.xml
 
 User-Agent: *
-Host: server.borfirbora.com
+Host: borfirbora.com
