@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://server.borfirbora.com/</loc>
+  <lastmod>2025-01-01T20:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://server.borfirbora.com/archive.html</loc>
+  <lastmod>2025-01-01T20:56:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://server.borfirbora.com/categories/</loc>
+  <lastmod>2025-01-01T20:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://server.borfirbora.com/galleries/</loc>
+  <lastmod>2025-01-01T20:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://server.borfirbora.com/galleries/demo/</loc>
+  <lastmod>2025-01-01T20:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://server.borfirbora.com/listings/</loc>
+  <lastmod>2025-01-01T20:26:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://server.borfirbora.com/listings/__pycache__/</loc>
+  <lastmod>2025-01-01T20:26:00Z</lastmod>
+ </url>
+</urlset>
